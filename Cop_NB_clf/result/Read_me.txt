@@ -1,0 +1,1 @@
+here we find result of classification with different initial configuration
